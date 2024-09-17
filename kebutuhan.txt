@@ -1,0 +1,9 @@
+title
+desc
+tag
+link
+kategori
+thumbnail webp 2 ukuran mini dan big
+
+
+
